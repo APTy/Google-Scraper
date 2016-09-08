@@ -6,7 +6,7 @@ This nodejs module will scrape Google results.
 This will print out the results of the first 3 pages with the query as 'nodejs'
 
 ```javascript
-var google = requre('Google-Scraper');
+var google = require('Google-Scraper');
 
 var options = {
    keyword: 'nodejs',
